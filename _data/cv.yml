@@ -2,96 +2,37 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Victor Wang (汪胜)
     - name: Languages
-      value: English, German
+      value: Mandarin, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: D.Phil in Applied Mathematics
+      institution: Mathematical Institute, University of Oxford, United Kingdom
+      year: 2017 - 2022
+      description: EPSRC CDT scholar, Oxford-Radcliffe scholar
+    - title: M.Sc in Mathematics and Finance
+      institution: Imperial College London, United Kingdom
+      year: 2014 - 2015
+    - title: B.Sc in Mathematics and Economics
+      institution: Nanyang Technological University, Singapore
+      year: 2010 - 2014
+      description: <a href="https://www.ntu.edu.sg/admissions/undergraduate/premier-scholar-programmes/cn-yang-scholars-programme">CN Yang scholar</a>
 
-- title: Experience
+- title: Professional Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Head of Quant
+      institution: Technology Dept., Stable Group, London/Singapore
+      year: 2019 - NOW
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Founded and managed the Quantitative Research team of 5-7; lead various R&D projects for developing better pricing and risk management solutions for commodity insurance policies (which resemble options with non-tradable underlyings).
+
+    - title: Quantitative Researcher/Consultant
+      institution: Clearing House, CME Group, London
+      year: 2015 - 2022
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Researched, developed, implemented, back-tested and documented the margin and stress testing models (tail-risk models) for FX futures and options - filtered VaR, stress VaR, liquidity model, etc..
+        - Since 2018, CME joined sponsoring the academic research of my DPhil at Oxford while I worked as a consultant.

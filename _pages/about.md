@@ -1,25 +1,32 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address:
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my personal site!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I hold a D.Phil degree in Applied Mathematics at the Mathematical Institute,
+University of Oxford, supervised by professors [Samuel N. Cohen](https://people.maths.ox.ac.uk/cohens/index.html) and [Christoph Reisinger](https://people.maths.ox.ac.uk/reisinge/).
+My research focuses on option arbitrage and market models of option dynamics,
+with a substantial emphasis on production-level applications in data cleansing,
+risk estimation, hedging and trading of statistical arbitrage. Readers who are interested in my research can download my D.Phil thesis from [ORA](https://ora.ox.ac.uk/objects/uuid:2b623ff5-0b7b-4950-828b-1b35b91e4537).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Since 2015, I have served various professional roles in quantitative research at
+- [CME](https://www.cmegroup.com/) - an exchange and clearing house for futures and options;
+- [Stable](https://www.stableprice.com/) - a FinTech start-up specialising in commodity exotic options market-making.
+
+I am continuously doing academic research with ideas inspired by challenges in my daily work. I am also open for academic collaborations in reasonable formats; please do not hesitate to [contact me](mailto:wangsheng.victor@gmail.com) if you have great ideas and think that I might help with making them into reality!
+
+---
