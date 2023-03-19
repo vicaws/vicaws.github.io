@@ -3,7 +3,7 @@ layout: distill
 title: Ribbon bridge
 date: 2017-11-19 11:12:00-0400
 description:
-tags: maths
+tags: maths, physics
 categories: maths
 giscus_comments: true
 
