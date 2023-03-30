@@ -237,6 +237,7 @@ Figure 12 shows a comparison between the results from our implementation `dqds()
 **Figure 12** - Singular values comparison.
 
 See below the MATLAB script of the `dqds()` function:
+
 <d-code block language="javascript">
   function [sigma] = dqds(B, tol, maxiter)
 

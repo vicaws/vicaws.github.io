@@ -46,7 +46,7 @@ The GC algorithm is stated in the following box.
 >> let $$\phi(v_i) = \min \{ k \in \mathbb{N}_+ \\| \phi(v_j) \neq k$$ if $$v_i v_j \in E \}$$;
 >>
 >
->**return** $$\phi(v)$
+>**return** $$\phi(v)$$
 
 Thus, the GC algorithm ends up with a $$k$$-coloring where
 
@@ -196,9 +196,9 @@ where $$n=10$$ for the Petersen graph. Thus, the optimal objective value of the 
 
 To study the scaling of the three algorithms to the GCP, we implement them to the Erdos-Renyi graph $$G(n,p)$$ for varying $$n$$ and fixed probability $$p=0.7$$.
 
-Since the Erd{\H o}s-R{\'e}nyi graph is a random graph, we run each algorithm for 100 realisations and compare among algorithms by average performance and its standard deviation. The performance to be compared includes the minimal number of colors and computational time.
+Since the Erdos-Renyi graph is a random graph, we run each algorithm for 100 realisations and compare among algorithms by average performance and its standard deviation. The performance to be compared includes the minimal number of colors and computational time.
 
-Firstly, we compare the two heuristic algorithms. The average minimal number of colors achieved is shown in Figure 2. $$x$$-axis indicates the scale of graph $$n$$, and $$y$$-axis marks the number of colors. The solid line represents the average minimal number of colors achieved. Furthermore, the error bar is also attached on the solid line, implying the range of two standard deviations (where 95\% of data will fall within assuming that data follow normal distribution).
+Firstly, we compare the two heuristic algorithms. The average minimal number of colors achieved is shown in Figure 2. $$x$$-axis indicates the scale of graph $$n$$, and $$y$$-axis marks the number of colors. The solid line represents the average minimal number of colors achieved. Furthermore, the error bar is also attached on the solid line, implying the range of two standard deviations (where 95% of data will fall within assuming that data follow normal distribution).
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
