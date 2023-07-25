@@ -24,11 +24,18 @@
 - title: Professional Experience
   type: time_table
   contents:
+    - title: Quantitative researcher
+      institution: Global Quantitative Strategies, Millennium, Shanghai
+      year: 2023 - NOW
+      description:
+        - Developed alpha quant strategies in global equity markets.
+
+
     - title: Head of Quant
       institution: Technology Dept., Stable Group, London/Singapore
-      year: 2019 - NOW
+      year: 2019 - 2023
       description:
-        - Founded and managed the Quantitative Research team of 5-7; lead various R&D projects for developing better pricing and risk management solutions for commodity insurance policies (which resemble options with non-tradable underlyings).
+        - Founded and managed the Quantitative Research team of 5-7; led various R&D projects for developing better pricing and risk management solutions for commodity insurance policies (which resemble options with non-tradable underlyings).
 
     - title: Quantitative Researcher/Consultant
       institution: Clearing House, CME Group, London

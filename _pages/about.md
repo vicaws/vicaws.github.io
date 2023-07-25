@@ -24,6 +24,7 @@ with a substantial emphasis on production-level applications in data cleansing,
 risk estimation, hedging and trading of statistical arbitrage. Readers who are interested in my research can download my D.Phil thesis from [ORA](https://ora.ox.ac.uk/objects/uuid:2b623ff5-0b7b-4950-828b-1b35b91e4537).
 
 Since 2015, I have served various professional roles in quantitative research at
+- [Millennium](https://www.mlp.com/) - a hedge fund;
 - [CME](https://www.cmegroup.com/) - an exchange and clearing house for futures and options;
 - [Stable](https://www.stableprice.com/) - a FinTech start-up specialising in commodity exotic options market-making.
 
@@ -37,6 +38,7 @@ I am continuously doing academic research with ideas inspired by challenges in m
 
 自2015年以来，我入职过多家公司从事量化研究：
 
+- 千禧年[Millennium](https://www.mlp.com/) - 对冲基金
 - 芝商所[CME](https://www.cmegroup.com/) - 期货、期权场内交易与清算
 - [Stable](https://www.stableprice.com/) - 致力于场外商品奇异期权做市的金融科技创业公司
 
